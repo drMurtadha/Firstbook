@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "6e141ff84bc18f7b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7e2f4fe8c933275b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "b8fbf4f3df3c1f60",
         "type": "tabs",
         "children": [
@@ -173,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2ff354033a6caa9",
+  "active": "de35c2faa06f05d8",
   "lastOpenFiles": [
     "draft of toc.md",
     "README.md",

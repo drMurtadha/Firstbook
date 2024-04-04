@@ -6,3 +6,8 @@
 3. Communication Architecture in UWSNs
 	1. Static UWSNs
 	2. Mobile UWSNs
+4. Challenges of End-to-End Routings in UWSNs
+	1. Proactive Routing Protocols
+	2. Reactive Routing Protocols
+	3. Geographic Routing Protocols
+5. Energy Efficient Routing in UWSNs
