@@ -32,8 +32,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "a2ff354033a6caa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "draft of toc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "draft of toc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "draft of toc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "draft of toc.md"
+              }
             }
           }
         ]
@@ -156,8 +173,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de35c2faa06f05d8",
+  "active": "a2ff354033a6caa9",
   "lastOpenFiles": [
+    "draft of toc.md",
     "README.md",
     "Welcome.md"
   ]
