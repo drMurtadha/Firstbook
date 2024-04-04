@@ -8,14 +8,14 @@
 	1. UWSNs Statik
 	2. UWSNs Bergerak
 4. **Cabaran Penghalaan End-to-End dalam UWSNs**
-		Protokol Penghalaan Proaktif
-		Protokol Penghalaan Reaktif
-		Protokol Penghalaan Geografi
+	1. Protokol Penghalaan Proaktif
+	2. Protokol Penghalaan Reaktif
+	3. Protokol Penghalaan Geografi
 5. **Routing Efisien Energi dalam UWSNs**
-		Penghalaan Cekap Tenaga menggunakan Pendekatan Nod Geganti Bergerak
-		Penghalaan Cekap Tenaga menggunakan Pendekatan Pengurangan Trafik
-		Perbincangan
+	1. Penghalaan Cekap Tenaga menggunakan Pendekatan Nod Geganti Bergerak
+	2. Penghalaan Cekap Tenaga menggunakan Pendekatan Pengurangan Trafik
+	3. Perbincangan
 6. **Proses Hierarki Beranalisis (AHP)**
-		Gambaran Umum AHP
-		Penerapan AHP dalam Penghalaan yang Ada
+	1. Gambaran Umum AHP
+	2. Penerapan AHP dalam Penghalaan yang Ada
 7. **Penyelaku Jaringan Bawah Air**
