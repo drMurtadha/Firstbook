@@ -1,13 +1,12 @@
 
 1. **Pengenalan WSN (Rangkaian Penderia Tanpa Wayar)**
 2. **Batasan dan Fitur UWSNs (Rangkaian Penderia di Permukaan Bawah AirTanpa Wayar)**
-		1. Sifat Saluran Akustik
-		
-		2.2 Sifat Sekitaran di Permukaan Bawah Air
-		2.3 Perbedaan TWSNs dan UWSNs
+	1. Sifat Saluran Akustik
+	2. Sifat Sekitaran di Permukaan Bawah Air
+	3. Perbedaan TWSNs dan UWSNs
 3. **Arsitektur Komunikasi dalam UWSNs**
-		UWSNs Statik
-		UWSNs Bergerak
+	1. UWSNs Statik
+	2. UWSNs Bergerak
 4. **Cabaran Penghalaan End-to-End dalam UWSNs**
 		Protokol Penghalaan Proaktif
 		Protokol Penghalaan Reaktif
