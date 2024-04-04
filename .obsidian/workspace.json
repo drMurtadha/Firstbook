@@ -43,9 +43,11 @@
             "id": "d220006bc714d17e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Imej/Imej Sorotan Literatur Greedy Routing.png"
+                "file": "DerafKandungan.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -116,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Imej/Imej Sorotan Literatur Greedy Routing.png",
+                "file": "DerafKandungan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Imej/Imej Sorotan Literatur Greedy Routing.png",
+                "file": "DerafKandungan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Imej/Imej Sorotan Literatur Greedy Routing.png"
+                "file": "DerafKandungan.md"
               }
             }
           }
@@ -178,15 +180,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "de35c2faa06f05d8",
+  "active": "d220006bc714d17e",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-04-04 09.59.02.excalidraw.md",
-    "Imej/Imej Sorotan Literatur Greedy Routing.png",
+    "DraftofTOC.md",
     "DerafKandungan.md",
+    "README.md",
+    "Imej/Imej Sorotan Literatur Greedy Routing.png",
+    "Excalidraw/Drawing 2024-04-04 09.59.02.excalidraw.md",
     "Excalidraw",
     "Imej",
-    "DraftofTOC.md",
-    "Welcome.md",
-    "README.md"
+    "Welcome.md"
   ]
 }
